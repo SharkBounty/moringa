@@ -14,7 +14,7 @@ if (!$showContent) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Protocolo Natural - Oferta Especial</title>
+    <title>Protocolo Desobstrução Natural - Oferta Especial</title>
 
     <!-- Vercel Analytics -->
     <script>
